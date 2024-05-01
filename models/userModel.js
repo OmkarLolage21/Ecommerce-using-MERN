@@ -23,10 +23,10 @@ const userSchema = new mongoose.Schema({
         type:{},
         required:true
     },
-    secretques:{
-        type:String,
-        required:true,
-    },
+    // secretques:{
+    //     type:String,
+    //     required:true,
+    // },
     role:{
         type:Number,
         default:0
