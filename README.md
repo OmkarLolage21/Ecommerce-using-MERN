@@ -7,7 +7,6 @@
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This eCommerce platform provides a seamless shopping experience with features such as product browsing, user authentication, and order management. It is designed to be highly customizable and scalable to meet various business needs.
@@ -61,6 +60,3 @@ Contributions are welcome! Please follow these steps to contribute:
 3. Commit your changes (`git commit -m 'Add some feature'`)
 4. Push to the branch (`git push origin feature/your-feature-name`)
 5. Open a Pull Request
-
-## License
-This project is licensed under the MIT License.
