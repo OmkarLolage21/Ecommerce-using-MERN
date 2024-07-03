@@ -29,8 +29,8 @@ This eCommerce platform provides a seamless shopping experience with features su
 ## Installation
 1. Clone the repository:
 
-   git clone https://github.com/your-username/ecommerce-platform.git
-   cd ecommerce-platform
+   git clone https://github.com/OmkarLolage21/Ecommerce-using-MERN.git
+   cd Ecommerce-using-MERN
 2. Install dependencies for both the backend and frontend:
    # Install backend dependencies
    npm install
@@ -39,7 +39,7 @@ This eCommerce platform provides a seamless shopping experience with features su
    cd client
    npm install
    
-4. Set up environment variables. Create a `.env` file in the root directory and add the following:
+3. Set up environment variables. Create a `.env` file in the root directory and add the following:
    
    NODE_ENV=development
    PORT=5000
