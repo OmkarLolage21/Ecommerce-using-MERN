@@ -52,7 +52,7 @@ This eCommerce platform provides a seamless shopping experience with features su
    cd client
    npm start
 
-3. Open your browser and navigate to `http://localhost:3000` to see the application running.
+3. Open your browser and navigate to `http://localhost:8080` to see the application running.
 
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
